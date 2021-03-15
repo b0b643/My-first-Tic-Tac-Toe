@@ -98,4 +98,4 @@ while True:
            print("It's a tie!!")
     else:
         print("Invalid number")
-    exit()
+    
